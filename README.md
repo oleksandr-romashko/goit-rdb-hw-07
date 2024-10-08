@@ -25,8 +25,8 @@
 
 Solutions are represented in [homework](./homework/) folder:
 
-1. Part 1: solution for this task part is placed in [p1.sql](./homework/p1.sql) file.
-2. Part 2: solution for this task part is placed in [p2.sql](./homework/p2.sql) file.
-3. Part 3: solution for this task part is placed in [p3.sql](./homework/p3.sql) file.
-4. Part 4: solution for this task part is placed in [p4.sql](./homework/p4.sql) file.
-5. Part 5: solution for this task part is placed in [p5.sql](./homework/p5.sql) file.
+1. Part 1: solution for this task part is placed in [this .sql](./homework/p1_query.sql) file.
+2. Part 2: solution for this task part is placed in [this .sql](./homework/p3_2_query.sql) file.
+3. Part 3: solution for this task part is placed in [this .sql](./homework/p3_2_query.sql) file.
+4. Part 4: solution for this task part is placed in [this .sql](./homework/p4_query.sql) file.
+5. Part 5: solution for this task part is placed in [this .sql](./homework/p5_query.sql) file.
